@@ -1,6 +1,8 @@
 # JodelUpdate
 JodelUpdate is a tool to automatically retrieve the HMAC secret from the Jodel Android App. Not affiliated with *The Jodel Venture GmbH*.
 
+OUTDATED: You need to manually set the byte[] where the HMAC function is in order to get the key
+
 ----
 
 ## Read before start ![For Educational Purposes Only](https://img.shields.io/badge/For_Educational_Purposes-only-brightgreen.svg)
